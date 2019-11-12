@@ -11,7 +11,7 @@ def calculate(base, height):
     # Process
     area = (base*height)/2
     print("")
-    print("The area of the triangle is {0}cm".format(area))
+    print("The area of the triangle is {0}cm2".format(area))
 
 
 def main():
