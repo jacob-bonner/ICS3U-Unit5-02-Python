@@ -6,7 +6,7 @@
 
 
 def calculate(base, height):
-    # This program calculates the area of a triangle
+    # This function calculates the area of a triangle
 
     # Process
     area = (base*height)/2
